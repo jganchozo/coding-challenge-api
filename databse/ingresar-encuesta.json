@@ -1,0 +1,128 @@
+{
+    "titulo": "Encuesta creada desde el api",
+    "descripcion": "Encuesta de pruebas",
+    "fecha": "2023-06-08T02:49:18.825Z",
+    "pregunta": [
+        {
+            "pregunta1": "Color favorito?",
+            "idtipoRespuesta": 1,
+            "orden": 1,
+            "opciones": [
+                {
+                    "opcion": "Blanco",
+                    "orden": 1
+                },
+                {
+                    "opcion": "Azul",
+                    "orden": 2
+                },
+                {
+                    "opcion": "Rosado",
+                    "orden": 3
+                },
+                {
+                    "opcion": "Rojo",
+                    "orden": 4
+                }
+            ]
+        },
+        {
+            "pregunta1": "Lugar preferido?",
+            "idtipoRespuesta": 1,
+            "orden": 2,
+            "opciones": [
+                {
+                    "opcion": "Playa",
+                    "orden": 1
+                },
+                {
+                    "opcion": "Montana",
+                    "orden": 2
+                },
+                {
+                    "opcion": "Campo",
+                    "orden": 3
+                },
+                {
+                    "opcion": "Ciudad",
+                    "orden": 4
+                }
+            ]
+        },
+        {
+            "pregunta1": "Que frefieres?",
+            "idtipoRespuesta": 1,
+            "orden": 3,
+            "opciones": [
+                {
+                    "opcion": "Queso",
+                    "orden": 1
+                },
+                {
+                    "opcion": "Papa",
+                    "orden": 2
+                },
+                {
+                    "opcion": "Lechuga",
+                    "orden": 3
+                },
+                {
+                    "opcion": "Zanahoria",
+                    "orden": 4
+                }
+            ]
+        },
+        {
+            "pregunta1": "Pregunta Cuatro",
+            "idtipoRespuesta": 1,
+            "orden": 4,
+            "opciones": [
+                {
+                    "opcion": "Juice",
+                    "orden": 1
+                },
+                {
+                    "opcion": "Soda",
+                    "orden": 2
+                },
+                {
+                    "opcion": "Ice cream",
+                    "orden": 3
+                },
+                {
+                    "opcion": "Jose Manuel",
+                    "orden": 4
+                }
+            ]
+        },
+        {
+            "pregunta1": "Pregunta Cinco",
+            "idtipoRespuesta": 1,
+            "orden": 5,
+            "opciones": [
+                {
+                    "opcion": "Uno",
+                    "orden": 1
+                },
+                {
+                    "opcion": "Dos",
+                    "orden": 2
+                },
+                {
+                    "opcion": "3 cream",
+                    "orden": 3
+                },
+                {
+                    "opcion": "cuatro",
+                    "orden": 4
+                }
+            ]
+        },
+        {
+            "pregunta1": "Pregunta Cuatro",
+            "idtipoRespuesta": 2,
+            "orden": 6,
+            "opciones": []
+        }
+    ]
+}
